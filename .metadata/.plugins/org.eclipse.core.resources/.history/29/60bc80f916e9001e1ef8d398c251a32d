@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="first">
+<button>ssss</button>
+</form>
+<input name="param" value="Apple">
+<a href="first">getDispatcher Demo</a>
+</body>
+</html>

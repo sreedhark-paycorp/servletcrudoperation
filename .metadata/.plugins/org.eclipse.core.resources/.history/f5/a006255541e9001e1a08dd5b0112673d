@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<a href="login.jsp">Login</a>|  
+<a href="LoginDemo">Logout</a>|  
+<a href="Profile">Profile</a> 
+
+</body>
+</html>

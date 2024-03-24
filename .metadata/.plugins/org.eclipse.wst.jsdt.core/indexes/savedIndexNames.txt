@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/lenovo/eclipse-workspace/trails/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1173522770.index
+3700226387.index
+2125570924.index
+743050477.index
+1857941264.index
+1201485948.index

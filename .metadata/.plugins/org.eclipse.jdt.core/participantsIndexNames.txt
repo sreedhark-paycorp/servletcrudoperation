@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+/home/lenovo/eclipse-workspace/trails/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1173522770.index
+/cookie-demo/src/main/java
+/home/lenovo/eclipse-workspace/trails/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/743050477.index
+/servlet-config/src/main/java
